@@ -1,3 +1,4 @@
 hi good morning to all
 i am learning github 
-prerequsite tool is linu::
+prerequsite tool is linux
+modified line for code
